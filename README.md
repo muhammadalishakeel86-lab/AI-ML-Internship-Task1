@@ -1,19 +1,41 @@
-# AI-ML-Internship-Task1
-DevelopersHub AI/ML Internship Tasks
-## Task 1: Exploring and Visualizing a Simple Dataset
-### Objective
-Analyze and visualize the Iris dataset using pandas, matplotlib, and seaborn.
+# AI/ML Engineering Internship Tasks
 
-### Work Done
-- Loaded and inspected dataset
-- Generated summary statistics
-- Created scatter plots
-- Created histograms
-- Created boxplots
-
-### Libraries Used
-- pandas
-- seaborn
-- matplotlib
+## Internship Details
+- Organization: DevelopersHub Corporation
+- Role: AI/ML Engineering Intern
 
 ---
+
+# Completed Tasks
+
+## Task 1: Iris Dataset Visualization
+- Data loading and inspection
+- Scatter plots
+- Histograms
+- Boxplots
+
+## Task 2: Stock Price Prediction
+- Historical stock analysis
+- Linear Regression model
+- Actual vs predicted visualization
+
+## Task 3: Heart Disease Prediction
+- Data cleaning
+- Exploratory Data Analysis
+- Logistic Regression
+- Accuracy and ROC evaluation
+
+---
+
+# Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
+---
+
+# Submitted By
+- Your Name
